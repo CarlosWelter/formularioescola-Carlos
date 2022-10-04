@@ -1,0 +1,55 @@
+form label, form p{
+	margin: 10 20 10px;
+	display: block;
+	font-size: 60px;
+	padding: 10px 20px;
+	width: 50%;
+
+
+	
+}
+
+h1{
+	font-size: 60px;
+	text-align: center;
+	color: #D2691E;
+
+}
+
+u {
+	color: #D2691E;
+}
+
+h2{
+	font-size: 60px;
+	text-align: center;
+	color: #D2691E;
+}
+
+div text{
+
+}
+
+body{
+	background: #FFA07A;
+}
+
+h3{
+	font-size: 60px;
+	text-align: center;
+	color: #D2691E;
+}
+
+.virgula{
+	padding: 30px;
+	width: 80%;
+}
+
+select{
+	width: 30%;
+
+}
+
+.imagem{
+	display: inline-block;
+}
